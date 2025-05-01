@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <title>My Sites</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Главная</a>
+    </header>
+    <main>
+      <h1 class="Big">Мои сайты</h1>
+      <p class="link-text"><a  href="http://project10860491.tilda.ws"><b>Сайт</b></a> о бо мне был собран в Tilda</p>
+        <p class="link-text"><a  href=" https://hrolesha.github.io/cars/"><b>Сайт</b></a> о машинах,создан при использовании HTML и CSS</p>
+        <p class="link-text"><a  href="https://hrolesha.github.io/get/"><b>Сайт</b></a> магазина электроники, CSS-селекторы,</p>
+      <p class="link-text"><a  href="https://www.figma.com/design/vflct58XaRyx3OAYHt1Q6L/%D0%9C8%D0%A33-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE--%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80-_0_1715074136--2-?node-id=0-1&t=9AdPzMT1ujSNmExZ-1"><b>Макет</b></a>  сделанный в Figma</p>
+    </main>
+    <footer>
+      <a class="social" href=""><img src="https://learn.algoritmika.org/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+    </footer>
+  </body>
+</html>
