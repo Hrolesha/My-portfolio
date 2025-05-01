@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+h1:hover{
+    color: blue;
+    transition:box-shadow 5s linear;
+    box-shadow:20px 30px 0 0 gray;
+}
+.Big{
+    background-image:linear-gradient(to right,#14DBE2,white,#14DBE2);
+}
+.link-text{
+    background-image:linear-gradient(to right,#14DBE2,white,#14DBE2);
+}
+h1{
+    text-align: center;
+    background-image:linear-gradient(to right,#BBE7FA,#FFFFFF,#BBE7FA);
+}
+ul{
+    background-image:linear-gradient(to right,#BBE7FA,#FFFFFF,#BBE7FA);
+    
+}
